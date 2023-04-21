@@ -13,5 +13,5 @@ Run these commands:
 
 `node app.js`
 
-
+or run by docker-compose
 
